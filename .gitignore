@@ -1,0 +1,7 @@
+*.exe
+*.o
+*.out
+InstallationLog.txt
+test_mini_fs.py
+documentacao.html
+__pycache__/
